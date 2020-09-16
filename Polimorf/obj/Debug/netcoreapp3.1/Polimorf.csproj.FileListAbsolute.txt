@@ -1,0 +1,13 @@
+C:\Users\convencaoinfo10\source\repos\Polimorf\Polimorf\obj\Debug\netcoreapp3.1\Polimorf.csprojAssemblyReference.cache
+C:\Users\convencaoinfo10\source\repos\Polimorf\Polimorf\obj\Debug\netcoreapp3.1\Polimorf.csproj.CoreCompileInputs.cache
+C:\Users\convencaoinfo10\source\repos\Polimorf\Polimorf\obj\Debug\netcoreapp3.1\Polimorf.AssemblyInfoInputs.cache
+C:\Users\convencaoinfo10\source\repos\Polimorf\Polimorf\obj\Debug\netcoreapp3.1\Polimorf.AssemblyInfo.cs
+C:\Users\convencaoinfo10\source\repos\Polimorf\Polimorf\bin\Debug\netcoreapp3.1\Polimorf.exe
+C:\Users\convencaoinfo10\source\repos\Polimorf\Polimorf\bin\Debug\netcoreapp3.1\Polimorf.deps.json
+C:\Users\convencaoinfo10\source\repos\Polimorf\Polimorf\bin\Debug\netcoreapp3.1\Polimorf.runtimeconfig.json
+C:\Users\convencaoinfo10\source\repos\Polimorf\Polimorf\bin\Debug\netcoreapp3.1\Polimorf.runtimeconfig.dev.json
+C:\Users\convencaoinfo10\source\repos\Polimorf\Polimorf\bin\Debug\netcoreapp3.1\Polimorf.dll
+C:\Users\convencaoinfo10\source\repos\Polimorf\Polimorf\bin\Debug\netcoreapp3.1\Polimorf.pdb
+C:\Users\convencaoinfo10\source\repos\Polimorf\Polimorf\obj\Debug\netcoreapp3.1\Polimorf.dll
+C:\Users\convencaoinfo10\source\repos\Polimorf\Polimorf\obj\Debug\netcoreapp3.1\Polimorf.pdb
+C:\Users\convencaoinfo10\source\repos\Polimorf\Polimorf\obj\Debug\netcoreapp3.1\Polimorf.genruntimeconfig.cache
